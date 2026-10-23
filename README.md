@@ -1,6 +1,6 @@
 # Hey, I'm Lucas 👋
 
-Product Manager with a background in Product Design and Development.
+Product Engineer with a background in Product Design and Development.
 I've been building digital products in startups for 5+ years, from discovery to delivery, combining user research, interface design, development and business perspective.
 
 I believe the best products come from people who understand both the user and the code.
